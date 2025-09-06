@@ -23,10 +23,10 @@ const routes = [
         name: 'about',
         id: 'about-me'
     },
-    {
-        name: 'contact',
-        id: 'contact-me'
-    }
+    // {
+    //     name: 'contact',
+    //     id: 'contact-me'
+    // }
 ]
 
 export default function Header() {
